@@ -60,7 +60,13 @@ Evaluations are produced through AI-assisted analysis. If an evaluation is not v
 
 ## Founding Members
 
-John Lakos, Joshua Berne, Pablo Halpern, Harold Bott, Mungo Gill
+| Name           | Affiliation    | Roles                                            |
+|----------------|----------------|--------------------------------------------------|
+| John Lakos     | Bloomberg LP   | Large-Scale Deployment, Safety & Correctness     |
+| Joshua Berne   | Bloomberg LP   | Language Specification, Library Architecture      |
+| Pablo Halpern  | Bloomberg LP   | Library Architecture, Concurrency & Systems       |
+| Harold Bott    | C++ Alliance   | Performance Engineering, Pedagogy & Teachability |
+| Mungo Gill     | C++ Alliance   | Large-Scale Deployment, Pedagogy & Teachability  |
 
 ---
 

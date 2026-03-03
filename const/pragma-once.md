@@ -306,3 +306,17 @@ Do not improvise. Every improvised answer risks expanding scope. These answers k
 "Then the work failed to be credible. The remedy is to improve the credibility of the work, not to increase the volume of demands."
 
 **Rule.** Memorize the answer to "What are you trying to achieve?" It will be asked most often and improvised answers are most dangerous there. The answer is: "Sound principles. Credible process."
+
+---
+
+## 18. MEMBER DISCLOSURE
+
+Every member is identified by two things: corporate affiliation and evaluation roles. Affiliation discloses interest. Roles disclose competency. Both are always public.
+
+Undisclosed affiliation is undisclosed interest. Undisclosed interest is undisclosed bias. A group that claims transparency at the institutional level and hides affiliation at the individual level has not earned the claim. Transparency over authority means the reader can evaluate the evaluator. The reader cannot evaluate what is not disclosed.
+
+The README is the sign on the shop door. The membership table - names, affiliations, roles - is the first thing a visitor sees. It answers three questions: who are these people, who do they work for, and what qualifies them to evaluate. First impressions determine whether anyone reads the substance. The substance is in the founding documents, the evaluation models, and the PROP history. The membership table is the reason anyone opens the door.
+
+The YAML front matter in the README is the authoritative membership record. The visible table is the rendered view. Both must be updated together. Changes to membership go through the PROP process.
+
+**Rule.** Every member listing includes name, affiliation, and roles. No exceptions. If a member changes employers, the listing is updated immediately through the PROP process. The reader is never surprised by a conflict of interest PRAGMA failed to disclose.

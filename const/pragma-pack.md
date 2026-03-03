@@ -25,6 +25,8 @@ The group follows the "Balanced Working Group" model.
 
 **No Padding.** Every member contributes a unique perspective. Redundant members dilute the vote. If two members always vote the same way for the same reasons, the layout has padding.
 
+**Disclosed.** Every member is identified by corporate affiliation and evaluation roles. Affiliation discloses interest. Roles disclose competency. The reader evaluates the evaluator. Undisclosed affiliation is undisclosed interest. Undisclosed interest is undisclosed bias. A group that claims transparency at the institutional level and hides affiliation at the individual level has not earned the claim.
+
 ---
 
 ## 3. THE ROLES
