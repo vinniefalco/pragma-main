@@ -55,20 +55,8 @@ Evaluations are produced through AI-assisted analysis. If an evaluation is not v
 
 - **Read.** The mailing list is publicly readable. Start there.
 - **Join the discussion.** Subscribe to the mailing list. Ask questions. Challenge principles. Propose new ones.
-- **Become a member.** Contact any founding member to participate in straw polls and evaluations.
+- **Become a member.** Contact any active member to participate in straw polls and evaluations.
 - **Volunteer expertise.** Experienced practitioners willing to share knowledge through structured interviews are the group's most valuable resource.
-
----
-
-## Founding Members
-
-| Name           | Affiliation    | Roles                                            |
-|----------------|----------------|--------------------------------------------------|
-| John Lakos     | Bloomberg LP   | Large-Scale Deployment, Safety & Correctness     |
-| Joshua Berne   | Bloomberg LP   | Language Specification, Library Architecture      |
-| Pablo Halpern  | Bloomberg LP   | Library Architecture, Concurrency & Systems       |
-| Harold Bott    | C++ Alliance   | Performance Engineering, Pedagogy & Teachability |
-| Mungo Gill     | C++ Alliance   | Large-Scale Deployment, Pedagogy & Teachability  |
 
 ---
 
