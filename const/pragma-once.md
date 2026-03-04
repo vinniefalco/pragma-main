@@ -200,7 +200,9 @@ Poll results are partially disclosed. The reasoning is public. The identities ar
 
 **The models remain the product.** The polls remain internal governance. The reasoning behind deferrals is disclosed because transparency requires it. The identities behind deferrals are not disclosed because solidarity requires it. These are independent dimensions.
 
-**Rule.** Deferrals are attributed to the group. Individual attribution is voluntary. The reasoning is always published. The identity is never required.
+**Recusals.** A member may recuse from any output poll. Recusals are presumed to be in good faith. Sharing a brief reason is encouraged when feasible. If the reason is confidential - ethical, contractual, or otherwise - "cannot disclose" is acceptable and will be respected. A recused member is excluded from the unanimity count for that item; unanimity applies to the remaining active participants. The record notes "recused" without publishing the reason unless the member volunteers it. The defense against gaming is at the membership layer: the admission filter selects members the group trusts to exercise judgment. Questioning a recusal without cause is the hostility the solidarity principle exists to prevent.
+
+**Rule.** Deferrals are attributed to the group. Recusals are presumed good faith. Individual attribution is voluntary. The reasoning is always published. The identity is never required.
 
 ---
 

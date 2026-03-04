@@ -139,3 +139,5 @@ Decisions made by the group, recorded with date and rationale.
 **March 3, 2026:** Straw polls require unanimity for all published output (evaluations, position papers, PROPs, document changes). Operational polls are informative; the chair calls the result. (Proposed by Vinnie Falco, confirmed by John Lakos and Joshua Berne.)
 
 **March 3, 2026:** Poll transparency and anonymity design adopted. Output poll numbers are published. Deferral rationale is published anonymously, attributed to the group. Individual attribution is voluntary. The solidarity principle: the group stands behind both its agreements and its disagreements as a unit. (Proposed by Joshua Berne, adopted by the group.)
+
+**March 4, 2026:** Recusal policy adopted. Recusals are presumed good faith. Sharing a reason is encouraged but not required; "cannot disclose" is acceptable. A recused member is excluded from the unanimity count for that item. The defense against gaming is at the membership layer, not the recusal layer. (Proposed in response to John Lakos's feedback that requiring reasons presumes bad faith.)
