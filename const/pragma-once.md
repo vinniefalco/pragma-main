@@ -132,7 +132,7 @@ Transparency is disclosed methodology, published models, open process. Authority
 
 ## 8. THE PRAGMA METAPHOR
 
-A `#pragma` is a compiler directive that is explicitly advisory. The compiler may follow it or ignore it. This is not a defect. It is the design. PRAGMA operates on the same terms. Credibility comes from the quality of the evaluations, not from institutional authority. The moment PRAGMA claims authority, it is no longer a pragma. It is a directive. Directives belong to a different scope.
+A `#pragma` is a compiler directive where the compiler defines the meaning, and which any compiler is free to ignore. PRAGMA operates on the same terms. Credibility comes from the quality of the evaluations, not from institutional authority. The moment PRAGMA claims authority, it is no longer a pragma. It is a directive. Directives belong to a different scope.
 
 ---
 
@@ -302,7 +302,7 @@ Do not improvise. Every improvised answer risks expanding scope. These answers k
 "The scope is evaluation of proposals, not evaluation of institutions. Principled evaluation of proposals is useful. That is what is offered."
 
 **"Why aren't you working within the committee instead?"**
-"Many members do work within the committee. PRAGMA is additional. The scope is evaluation, which does not require a committee seat."
+"The evaluations are designed for committee members preparing to review proposals. Publishing evaluation criteria that a committee member can reference when judging incoming work is working within the committee. PRAGMA is the published form of that work."
 
 **"What happens if the committee ignores you?"**
 "Then the work failed to be credible. The remedy is to improve the credibility of the work, not to increase the volume of demands."
