@@ -1,45 +1,13 @@
 ---
-members:
-  - name: John Lakos
-    email: jlakos@bloomberg.net
-    affiliation: Bloomberg LP
-    github: jslakos
-    status: active
-    roles:
-      - Large-Scale Deployment
-      - Safety & Correctness
-  - name: Joshua Berne
-    email: jberne4@bloomberg.net
-    affiliation: Bloomberg LP
-    github: notadragon
-    status: active
-    roles:
-      - Language Specification
-      - Library Architecture
-  - name: Pablo Halpern
-    email: pablo@halpern.dev
-    affiliation: Bloomberg LP
-    github: phalpern
-    status: active
-    roles:
-      - Library Architecture
-      - Concurrency & Systems
-  - name: Harold Bott
-    email: harry@cppalliance.org
-    affiliation: C++ Alliance
-    github: bottha123
-    status: active
-    roles:
-      - Performance Engineering
-      - Pedagogy & Teachability
-  - name: Mungo Gill
-    email: mungo@cppalliance.org
-    affiliation: C++ Alliance
-    github: MungoG
-    status: active
-    roles:
-      - Large-Scale Deployment
-      - Pedagogy & Teachability
+# Member entry template:
+#   - name: Full Name
+#     email: user@example.com
+#     affiliation: Organization
+#     github: username
+#     status: active | emeritus
+#     roles:
+#       - (see pragma-pack.md Section 3)
+members: []
 ---
 
 # The PRAGMA Group
@@ -54,13 +22,8 @@ Welcome. Everything here is meant to be read.
 
 ## Members
 
-| Name           | Affiliation    | Status | Roles                                            |
-|----------------|----------------|--------|--------------------------------------------------|
-| John Lakos     | Bloomberg LP   | Active | Large-Scale Deployment, Safety & Correctness     |
-| Joshua Berne   | Bloomberg LP   | Active | Language Specification, Library Architecture     |
-| Pablo Halpern  | Bloomberg LP   | Active | Library Architecture, Concurrency & Systems      |
-| Harold Bott    | C++ Alliance   | Active | Performance Engineering, Pedagogy & Teachability |
-| Mungo Gill     | C++ Alliance   | Active | Large-Scale Deployment, Pedagogy & Teachability  |
+| Name | Affiliation | Status | Roles |
+|------|-------------|--------|-------|
 
 The YAML front matter in this file is the authoritative membership record. Changes to membership must update both the front matter and the visible list.
 
